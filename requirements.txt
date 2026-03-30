@@ -1,8 +1,8 @@
-tensorflow
+streamlit
+tensorflow-macos
 numpy
 pandas
 scikit-learn
-tensorboard
 matplotlib
 seaborn
-streamlit
+joblib
